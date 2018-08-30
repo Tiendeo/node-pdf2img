@@ -1,13 +1,13 @@
 {
-  "name": "pdf2img",
-  "version": "0.5.0",
-  "description": "A nodejs module for converting pdf into image",
-  "author": "Fitra Aditya <fitra@g.pl>",
+  "name": "pdf2img-extended",
+  "version": "0.1.1",
+  "description": "A nodejs module for converting pdf into image. Extended from pdf2img package",
+  "author": "Daniel Solá <daniel.sola.fraire@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/fitraditya/node-pdf2img",
+  "homepage": "https://github.com/Tiendeo/node-pdf2img",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fitraditya/node-pdf2img.git"
+    "url": "https://github.com/Tiendeo/node-pdf2img.git"
   },
   "dependencies": {
     "async": "^0.9.0",
@@ -18,7 +18,7 @@
     "mocha": "^2.1.0"
   },
   "bugs": {
-    "url": "https://github.com/fitraditya/node-pdf2img/issues"
+    "url": "https://github.com/Tiendeo/node-pdf2img/issues"
   },
   "main": "index.js",
   "scripts": {

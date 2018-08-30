@@ -1,6 +1,8 @@
 # node-pdf2img
 
-A nodejs module for converting pdf into image file
+A nodejs module for converting pdf into image file. Extended from original package pdf2img (https://www.npmjs.com/package/pdf2img).
+Current work: 
+- Adding configurable compression parameter
 
 ## Dependencies
 - GraphicsMagick
@@ -56,9 +58,9 @@ It will return array of splitted and converted image files.
 ```
 
 ## Maintainer
-[Fitra Aditya][0]
+[Daniel Solá][0]
 
 ## License
 MIT
 
-[0]: https://github.com/fitraditya
+[0]: https://github.com/DanielSola
