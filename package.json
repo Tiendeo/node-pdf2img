@@ -1,6 +1,6 @@
 {
   "name": "pdf2img-extended",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A nodejs module for converting pdf into image. Extended from pdf2img package",
   "author": "Daniel Solá <daniel.sola.fraire@gmail.com>",
   "license": "MIT",
